@@ -1,4 +1,9 @@
 # System Design
+* [常见分布式系统设计图解（汇总）](https://www.raychase.net/6364)
+* [hello interview](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
+* Design Data Intensive Application
+* System Design Interview Volume I
+* System Design Interview Volume II
 ## Social & User-Facing Systems
 
 ### Design Instagram (photo/video sharing platform)
